@@ -1,6 +1,5 @@
 ---
-# ![a](https://github.com/NimilRl/Disilab/assets/90232167/2b40e358-4121-4766-8d2a-ea864720bb70)
-
+# ![a](https://github.com/NimilRl/Disilab/assets/90232167/d5cca362-b4b4-4273-a681-cf932cd799db)
 
 Dive into **Learning Improvement System (LIS)** 🌟, where computer science education gets a modern twist! It's where eager learners, dedicated educators, and tech enthusiasts converge to explore, learn, and grow together. With LIS, you're not just learning; you're joining a vibrant community 🤝, enriched with endless resources 📚, interactive forums 💬, and cutting-edge courses 🎓. Every click is a step towards mastering the digital realm, making every moment spent a leap towards the future. Ready to embark on this exciting journey? Welcome aboard LIS! 🚀
 
