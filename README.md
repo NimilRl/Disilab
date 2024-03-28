@@ -28,7 +28,7 @@ Nimil. (2021). Disilab. Learning Improvement System
 ```
 
 ### **🤝 Collaborations:**
-Special thanks to our mentors, Mr. Amish Patel and Dr. Jikitsha Sheth, for their invaluable guidance. and to my co-worker Vruti dhameliya who contributed to this project. Your insights and collaboration have been pivotal!
+Special thanks to our mentors, Mr. Amish Patel and Dr. Jikitsha Sheth, for their invaluable guidance. and to my co-worker [Vruti Dhameliya](https://www.linkedin.com/in/vruti-dhameliya-122358230/) who contributed to this project. Your insights and collaboration have been pivotal!
 
 Kudos to the Shrimad Rajchandra Institute faculty for their support
 (Uka Tarasadia University, Bardoli, Gujarat)
